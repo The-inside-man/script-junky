@@ -1,3 +1,5 @@
+![Script Junky — Think deeper. Build safer systems. Do good.](docs/script-junky-banner.png)
+
 # Script Junky
 
 A local field school for terminal fluency, shell scripting, ethical security work, and evidence-based investigation. It pairs a native terminal workflow with a responsive learning dashboard. Python 3.11+ is the only application dependency.
