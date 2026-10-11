@@ -1,0 +1,4 @@
+pid	process	service	address	port
+100	sshd	ssh	0.0.0.0	22
+300	python	debug-api	0.0.0.0	8080
+200	postgres	database	127.0.0.1	5432

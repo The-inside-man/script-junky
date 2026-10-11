@@ -1,0 +1,9 @@
+id	observation	limitation
+E01	Four failed SSH events from 192.0.2.23	Failure alone does not establish access
+E02	An accepted worker login from the same address	Account owner approval is not captured
+E03	PID 4242 runs from /tmp/worker-helper	Full command line and session link are absent
+E04	Captured worker startup jobs are unapproved	No execution record was acquired
+E05	A backup job is in the approved baseline	Approval is a stated fixture fact
+E06	worker.conf has the other-write mode bit	Effective ACLs and consumer authority are unknown
+E07	worker-helper package is outside the baseline	Package provenance is missing
+E08	No outbound-flow evidence was acquired	Absence of a source is not evidence of no transfer

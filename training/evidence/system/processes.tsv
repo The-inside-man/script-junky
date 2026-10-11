@@ -1,0 +1,5 @@
+pid	owner	executable	parent
+1	root	/sbin/init	0
+100	root	/usr/sbin/sshd	1
+300	worker	/usr/bin/python3	1
+4242	worker	/tmp/worker-helper	300

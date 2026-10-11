@@ -1,0 +1,4 @@
+platform	kind	artifact	owner	program	baseline
+linux	cron	evidence/hunts/cron/worker.sample	worker	/tmp/worker-helper	unapproved
+macos	launchagent	evidence/hunts/launchagents/worker.sample.plist	analyst	/tmp/worker-helper	unapproved
+linux	cron	evidence/hunts/cron/backup.sample	backup	/usr/local/bin/approved-backup	approved

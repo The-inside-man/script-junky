@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- INERT SYNTHETIC EVIDENCE: do not load this captured definition -->
+<plist version="1.0"><dict><key>Label</key><string>lab.worker.helper</string><key>ProgramArguments</key><array><string>/tmp/worker-helper</string><string>--status</string></array><key>RunAtLoad</key><true/></dict></plist>

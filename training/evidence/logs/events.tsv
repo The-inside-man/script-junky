@@ -1,0 +1,5 @@
+timestamp	source	event
+2026-06-12T09:04:00Z	filewatch	worker.conf modified
+2026-06-12T09:00:00Z	sshd	failed login from 192.0.2.23
+2026-06-12T09:03:00Z	process	PID 4242 /tmp/worker-helper started
+2026-06-12T09:02:00Z	sshd	accepted login for worker from 192.0.2.23

@@ -1,0 +1,7 @@
+2026-06-12T09:00:00Z lab sshd[101]: Failed password for invalid user backup from 192.0.2.23 port 44510 ssh2
+2026-06-12T09:00:15Z lab sshd[101]: Failed password for invalid user backup from 192.0.2.23 port 44511 ssh2
+2026-06-12T09:01:00Z lab sshd[102]: Failed password for analyst from 198.51.100.8 port 52101 ssh2
+2026-06-12T09:01:20Z lab sshd[101]: Failed password for worker from 192.0.2.23 port 44512 ssh2
+2026-06-12T09:01:30Z lab sshd[101]: Failed password for worker from 192.0.2.23 port 44513 ssh2
+2026-06-12T09:02:00Z lab sshd[103]: Accepted password for worker from 192.0.2.23 port 44514 ssh2
+2026-06-12T09:02:15Z lab sshd[102]: Failed password for analyst from 198.51.100.8 port 52102 ssh2

@@ -1,0 +1,2 @@
+# Approved synthetic backup definition, captured as text
+0 2 * * * backup /usr/local/bin/approved-backup

@@ -1,0 +1,2 @@
+Case 001: repeated login failures, then a successful worker login.
+Investigate without assuming the process is malicious. All evidence is synthetic.

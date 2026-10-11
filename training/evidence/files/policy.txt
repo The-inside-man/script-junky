@@ -1,0 +1,1 @@
+Lab policy: configurations may only be changed by the service owner.

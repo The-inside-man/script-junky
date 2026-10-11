@@ -1,0 +1,2 @@
+# INERT SYNTHETIC EVIDENCE: do not install this captured definition
+*/5 * * * * worker /tmp/worker-helper --status

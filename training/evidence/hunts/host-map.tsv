@@ -1,0 +1,3 @@
+component	asset	input	identity	known_limit
+worker	job integrity	worker.conf	worker	effective privileges not captured
+debug-api	job submissions	network requests	worker	routing and firewall not captured
